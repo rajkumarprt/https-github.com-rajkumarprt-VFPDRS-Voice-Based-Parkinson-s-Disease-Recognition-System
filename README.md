@@ -1,0 +1,2 @@
+# https-github.com-rajkumarprt-VFPDRS-Voice-Based-Parkinson-s-Disease-Recognition-System
+Voice-Based Parkinson’s Disease Recognition System (VFPDRS) integrates Correlation-Based Feature Selection (CFS) and Weighted Probabilistic Bagged k-NN (WPB-k-NN) for robust Parkinson’s disease detection using the UCI Oxford voice dataset, benchmarked against SVM, Logistic Regression, Random Forest, k-NN, and PCA-based classifiers.
