@@ -145,13 +145,7 @@ VFPDRS/
 If you use this repository in your research, please cite the associated publication.
 
 ```text
-Rajavel R., Sankaranarayanan S.
-
-Voice-Based Parkinson's Disease Recognition System using
-Correlation-Based Feature Selection and
-Weighted Probabilistic Bagged k-NN.
-
-(Add journal details after publication.)
+Sathya Bama B, Archana Sasi, Rajkumar Rajavel, Sathish Kumar Ravichandran, Santhosh Kumar C, Daniel Arockiam, "AI-Enabled Voice-Based Parkinson’s Disease Detection: A Feature-Weighted Probabilistic Ensemble Learning Approach", Humanities and Social Sciences Communications, 2026.
 ```
 
 ---
